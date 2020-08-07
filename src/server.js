@@ -9,4 +9,4 @@ server.get('/', (req, res) => {
 }) 
 
 server.use(express.static('../public'))
-server.listen(port, () => console.log(`Server ligado na porta ${port}!`))
+server.listen(process.env.PORT || 5000, () => console.log(`Server ligado na porta ${port}!`))
