@@ -1,0 +1,14 @@
+[
+    {
+        "id": "1",
+        "email": "tnrlucas@gmail.com",
+        "password": "cjlindo123",
+        "vaccinnes": []
+    },
+    {
+        "id": "2",
+        "email": "rafael-vilella@gmail.com",
+        "password": "jupiesnows2",
+        "vaccines": []
+    }
+]
