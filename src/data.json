@@ -1,12 +1,14 @@
 [
     {
         "id": "1",
+        "cpf": "0965548413",
         "email": "tnrlucas@gmail.com",
         "password": "cjlindo123",
         "vaccinnes": []
     },
     {
         "id": "2",
+        "cpf": "6969696969",
         "email": "rafael-vilella@gmail.com",
         "password": "jupiesnows2",
         "vaccines": []
